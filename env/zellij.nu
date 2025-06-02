@@ -1,0 +1,1 @@
+$env.ZELLIJ_AUTO_ATTACH = true
